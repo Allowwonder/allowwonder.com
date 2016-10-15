@@ -85,11 +85,7 @@ body{
 }
 
 #main-header{
-	background-image: url(http://localhost/allowwonder.com/wp-content/uploads/2016/10/header5.png);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 100%;
+	display: none;
 }
 .menu-wrap{
 	background: #fff;
